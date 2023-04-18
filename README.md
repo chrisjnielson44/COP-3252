@@ -6,7 +6,22 @@ This repository contains my assignments for the COP 3252 Advance Java class. The
 
 The repository is structured by assignment number, and each assignment has its own folder with the corresponding files. The assignments are organized as follows:
 
-
+```bash
+./
+├── assignment-1/
+│   ├── src/
+│   ├── README.md
+│   └── ...
+├── assignment-2/
+│   ├── src/
+│   ├── README.md
+│   └── ...
+├── assignment-3/
+│   ├── src/
+│   ├── README.md
+│   └── ...
+└── ...
+```
 
 
 
